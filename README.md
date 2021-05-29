@@ -1,7 +1,7 @@
-<h1 align="center">VPS Statistics Web</h3>
+<h1 align="center">Covid 19 Statistics Web</h3>
 <p align="center">
   <a href="https://github.com/hirunaofficial/Covid-19-Statistics-Web">
-    <img src="#" alt="Cover Image" width="650">
+    <img src="https://socialify.git.ci/hirunaofficial/Covid-19-Statistics-Web/image?description=1&forks=1&issues=1&language=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Dark" alt="Cover Image" width="650">
   </a>
 </p>
 
