@@ -65,7 +65,7 @@ Globle Covid 19 Statistics
 <div class="row">
 <div class="col">
 <div align="center" class="card-header alert-dark">
-&copy; Copyright <?php echo date("Y"); ?> <a href="#" target="_blank">Covid 19 Statistics Web</a> | Powered by <a target="_blank" href="https://www.hpb.health.gov.lk/">HPBSL</a> | Created By <a href="http://hirunaofficial.github.io/" target="_blank">GD Hiruna</a>
+&copy; Copyright <?php echo date("Y"); ?> <a href="https://github.com/hirunaofficial/Covid-19-Statistics-Web" target="_blank">Covid 19 Statistics Web</a> | Powered by <a target="_blank" href="https://www.hpb.health.gov.lk/">HPBSL</a> | Created By <a href="http://hirunaofficial.github.io/" target="_blank">GD Hiruna</a>
 </div>
 </div>
 </div>
