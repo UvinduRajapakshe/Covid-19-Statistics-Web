@@ -10,12 +10,5 @@
 Covid 19 Statistics Web is a Simple Website to Track Covid 19 Live Statistics in Sri Lanka.
 
 # What does it show ?
-* Local Total Confirmed Cases
-* Local Active Cases
-* Local Daily New Cases
-* Local Individuals currently under investigations in hospitals
-* Local Recovered & Discharged
-* Globle Total Confirmed Cases
-* Globle Daily New Cases
-* Globle Recovered
-* Globle Deaths
+* Local Covid 19 Informations
+* Globle Covid 19 Informations
